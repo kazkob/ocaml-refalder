@@ -1,0 +1,3 @@
+(library
+  (name refolder)
+  (library_flags (-linkall)))
